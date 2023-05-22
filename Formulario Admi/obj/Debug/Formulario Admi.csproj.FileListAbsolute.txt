@@ -1,0 +1,14 @@
+C:\POO\Formulario Admi\obj\Debug\Formulario Admi.csproj.AssemblyReference.cache
+C:\POO\Formulario Admi\obj\Debug\Formulario Admi.csproj.SuggestedBindingRedirects.cache
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.Estudiante.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.FmCentro.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.Form1.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.ListaCentrro.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.ListaEstu.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.ListaPersonal.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.ListaProfesorcs.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.Personal.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.Profesor.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario_Admi.Properties.Resources.resources
+C:\POO\Formulario Admi\obj\Debug\Formulario Admi.csproj.GenerateResource.cache
+C:\POO\Formulario Admi\obj\Debug\Formulario Admi.csproj.CoreCompileInputs.cache
